@@ -8,11 +8,11 @@ A collaborative project built by 3 Developers within 7 days.
 <h3>Tech Stack: React | Redux | JSON Server | Styled Components | Material UI </h3>
 Features : 
 <ul>
-<li>Signup | Login | Google Signup | Login Integration</li>
-<li>USer Dashboard | Watchlist</li>
+<li>Google Signup | Login Integration</li>
+<li>User Dashboard | Watchlist</li>
 <li>Task Manager</li>
 <li>Event Calander</li>
-<li>View Project </p></li>
+<li>View Project</li>
 </ul>
  
  
